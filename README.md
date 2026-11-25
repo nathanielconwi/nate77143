@@ -7,5 +7,3 @@ Currently building and testing Azure-hosted .NET 8 services, learning Spanish,
 and preparing to relocate to Spain.
 
 **Stack:** C# · .NET 8 · ASP.NET Core · Azure · Terraform · SQL Server · Docker · TypeScript
-
-Pampanga, Philippines → Spain
